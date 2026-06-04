@@ -1,0 +1,42 @@
+# Environment variables / secrets
+.env
+.env.local
+.env.*.local
+*.env
+token.txt
+
+# Java / Maven / Gradle build outputs
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs and editors
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python virtual environment
+venv/
+.venv/
+jpkg/venv/
+__pycache__/
+jpkg/**/__pycache__/
+*.pyc
+

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: jpkg
+Version: 0.1.0
+Requires-Dist: streamlit>=1.40.0
+Requires-Dist: lxml>=5.0.0
+Requires-Dist: requests>=2.32.0
+Requires-Dist: click>=8.1.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: litellm>=1.50.0
+Requires-Dist: ollama>=0.3.0
+Dynamic: requires-dist
